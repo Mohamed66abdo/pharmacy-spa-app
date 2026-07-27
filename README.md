@@ -40,16 +40,27 @@ Looking for a lightning-fast, sleek, and highly performant e-commerce interface 
 ## 📸 App Screenshots - لقطات الشاشة
 
 ### 📱 Responsive Mobile View
-![Mobile Home View](image 2.jpeg)
+<img src="./image%202.jpeg" alt="Mobile Home View" width="350"/>
 
 ### 💻 Desktop Overview & Features
-| Home Page | Interactive Cart Drawer |
-| :---: | :---: |
-| ![Home Page](Screenshot 2026-07-27 143153.png) | ![Cart Drawer](Screenshot 2026-07-27 143258.png) |
-
-| Checkout & Order Summary | Interactive Card Payment |
-| :---: | :---: |
-| ![Checkout](Screenshot 2026-07-27 143344.png) | ![Payment Form](Screenshot 2026-07-27 143357.png) |
+<table>
+  <tr>
+    <td align="center"><b>Home Page</b></td>
+    <td align="center"><b>Interactive Cart Drawer</b></td>
+  </tr>
+  <tr>
+    <td><img src="./Screenshot%202026-07-27%20143153.png" alt="Home Page"/></td>
+    <td><img src="./Screenshot%202026-07-27%20143258.png" alt="Cart Drawer"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Checkout & Order Summary</b></td>
+    <td align="center"><b>Interactive Card Payment</b></td>
+  </tr>
+  <tr>
+    <td><img src="./Screenshot%202026-07-27%20143344.png" alt="Checkout"/></td>
+    <td><img src="./Screenshot%202026-07-27%20143357.png" alt="Payment Form"/></td>
+  </tr>
+</table>
 
 ### 🔐 Auth Page
-![Login Screen](Screenshot 2026-07-27 143410.png)
+<img src="./Screenshot%202026-07-27%20143410.png" alt="Login Screen"/>
